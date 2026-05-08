@@ -25,7 +25,7 @@ export function Header() {
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
               <img
-                src="src/assets/header.png"
+                src="/header.png"
                 alt="KlimaSouth Logo"
                 className="h-16 w-auto object-contain"
               />

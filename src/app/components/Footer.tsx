@@ -10,7 +10,7 @@ export function Footer() {
           <div>
             <div className="mb-4">
               <img
-                src="src/assets/footer.png"
+                src="/footer.png"
                 alt="KlimaSouth Logo"
                 className="h-20 w-auto object-contain"
               />
